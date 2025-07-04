@@ -34,5 +34,5 @@ This project is a **Streamlit-based web application** that simulates market dema
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Tarman12/airline-demand-dashboard.git
+git clone https://github.com/Tarman12/airline-booking-insights.git
 cd airline-demand-dashboard
